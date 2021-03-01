@@ -27,6 +27,8 @@ Ejemplo: 018-latte.png
 
 
 
+
+
 ## Carpetas
 
 * 📁texto: listados en txt y csv
