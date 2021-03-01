@@ -13,7 +13,13 @@ Los vínculos directos se ven con las siguientes direcciones:
 https://raw.githubusercontent.com/jorgecc/iconos-ejemplos/main/<imagen>
 ```
 
-Donde <imagen> es el nombre de la imagen con extension. 
+Donde <imagen> es el nombre de la imagen con extensión. 
+
+Ejemplo: 018-latte.png
+
+[https://raw.githubusercontent.com/jorgecc/iconos-ejemplos/main/018-latte.png](https://raw.githubusercontent.com/jorgecc/iconos-ejemplos/main/018-latte.png)
+
+![https://raw.githubusercontent.com/jorgecc/iconos-ejemplos/main/018-latte.png](https://raw.githubusercontent.com/jorgecc/iconos-ejemplos/main/018-latte.png)
 
 
 
