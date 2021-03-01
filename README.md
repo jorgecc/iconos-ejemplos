@@ -15,13 +15,15 @@ Los vínculos directos se ven con las siguientes direcciones:
 https://github.com/jorgecc/iconos-ejemplos/blob/main/coffees/<imagen>
 ```
 
-Donde <imagen> es el nombre de la imagen con extensión. 
+Donde **\<imagen\>** es el nombre de la imagen con extensión sin ruta.
 
 Ejemplo: 018-latte.png
 
 [https://github.com/jorgecc/iconos-ejemplos/blob/main/coffees/018-latte.png](https://github.com/jorgecc/iconos-ejemplos/blob/main/coffees/018-latte.png)
 
 ![https://github.com/jorgecc/iconos-ejemplos/blob/main/coffees/018-latte.png](https://github.com/jorgecc/iconos-ejemplos/blob/main/coffees/018-latte.png)
+
+
 
 
 
