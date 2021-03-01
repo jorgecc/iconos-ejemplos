@@ -1,13 +1,21 @@
 # iconos-ejemplos
 Iconos de ejemplos
 
+![listado.jpg](listado.jpg)
+
 Estos iconos vienen de https://www.flaticon.com/packs/barista-2
 
-Y son usados para poder ser desplegados en ejemplos solamente.
+Y son usados para poder ser desplegados en ejemplos de código.
 
 Los vínculos directos se ven con las siguientes direcciones:
 
-![listado.jpg](listado.jpg)
+```
+https://raw.githubusercontent.com/jorgecc/iconos-ejemplos/main/<imagen>
+```
+
+Donde <imagen> es el nombre de la imagen con extension. 
+
+
 
 
 
